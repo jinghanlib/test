@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-11-16T22:59:42.153Z",
+  "created_by": "jinghanlib",
+  "title": "Suspense Film",
+  "slug": "suspense-film",
+  "updated_at": "2025-11-16T22:59:42.153Z",
+  "updated_by": "jinghanlib",
+  "parent": "85061614-a647-49df-be53-51ae1849a87e",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "24320c21-8c2f-42a6-a86a-e625ca66bd47"
+  }
+}
